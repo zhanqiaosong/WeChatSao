@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="weChatSao"
+  id="myeclipse.1496060718620"
+  context-root="/weChatSao"
+  j2ee-spec="5.0"
+  archive="weChatSao.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
